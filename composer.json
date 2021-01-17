@@ -1,0 +1,14 @@
+{
+    "name": "hexlet/code",
+    "description": "First project on hexlet: Brain Games",
+    "authors": [
+        {
+            "name": "levanse",
+            "email": "example@example.com"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+    ]
+}
