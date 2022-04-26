@@ -6,13 +6,11 @@
 
 This console-based game included simple logic and arithmetic mini-games
 ## Brain Even Game
-___
 Answer "yes" if the number is even, otherwise answer "no".
 Use ```make brain-even``` command to start
 
 [![asciicast](https://asciinema.org/a/399125.svg)](https://asciinema.org/a/399125)
 ## Calc Game
-___
 What is the result of the expression?
 Use ```brain-calc``` command to start
 
